@@ -1,0 +1,9 @@
+body{
+    background-color: violet;
+}
+.login_div1,.login_div2{
+    background-color: whitesmoke;
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+}
