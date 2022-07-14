@@ -1,8 +1,8 @@
 body{
-    background-color: violet;
+    background-color: forestgreen;
 }
 .login_div1,.login_div2{
-    background-color: whitesmoke;
+    background-color: goldenrod;
     padding: 10px;
     float: none;
     border-radius: 15px;
